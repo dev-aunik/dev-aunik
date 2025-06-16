@@ -1,6 +1,6 @@
 # Hi, I'm Mehedi Hasan
 
-## Software Engineer | Backend Devloper
+## Software Engineer
 
 ---
 
