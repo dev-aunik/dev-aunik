@@ -24,8 +24,4 @@ Software Engineer with 4 years of experience specializing in PHP and Laravel. Pr
 
 [LinkedIn](https://www.linkedin.com/in/phil-mehedi-hasan-aunik)
 
----
-
-[Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aunik&show_icons=true&theme=radical)
-
 _Thank you for visiting my profile._
