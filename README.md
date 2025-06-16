@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mehedi Hasan
 
-<!--
-**dev-aunik/dev-aunik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Backend Devloper
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer with 4 years of experience specializing in PHP and Laravel. Proficient in building scalable, secure backend systems and RESTful APIs. Solid knowledge in object-oriented programming, data structures, and best practices for maintainable code. Currently developing skills in AWS cloud services and Go programming.
+
+---
+
+### 🛠️ Core Competencies
+
+- **Backend Development:** PHP (Laravel, Symfony), JavaScript, Go (in progress)
+- **Database Design & Optimization:** MySQL, MSSQL (schema modeling, query optimization, performance tuning)
+- **Caching & Real-Time Communication:** Redis, WebSockets
+- **DevOps & Cloud:** Docker, GitHub, Google Cloud Platform, AWS (fundamentals), Terraform, Apache
+- **Version Control & Collaboration:** Git, Click Up
+- **Best Practices:** SOLID principles, design patterns, clean code, maintainability
+- **Operating Systems:** Unix/Linux (Ubuntu)
+
+---
+
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/phil-mehedi-hasan-aunik)
+
+---
+
+[Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aunik&show_icons=true&theme=radical)
+
+_Thank you for visiting my profile._
