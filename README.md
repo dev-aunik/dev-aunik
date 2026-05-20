@@ -68,11 +68,11 @@ I work at **Daisen Technologies Ltd.** in Dhaka, where I build backend services,
 
 ## GitHub Snapshot
 
-[![Public repos](https://img.shields.io/badge/Public%20repos-8-6B7280)](https://github.com/dev-aunik?tab=repositories)
 [![Main stack](https://img.shields.io/badge/Main%20stack-PHP%20%7C%20Go%20%7C%20TypeScript-2563EB)](https://github.com/dev-aunik?tab=repositories)
 [![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-059669)](https://github.com/dev-aunik?tab=repositories)
+[![Work style](https://img.shields.io/badge/Work%20style-APIs%20%7C%20Systems%20%7C%20Delivery-6B7280)](https://github.com/dev-aunik?tab=repositories)
 
-Most of my public work is around backend APIs, Go utilities, Docker-based workflows, and web platforms built with PHP, Go, and TypeScript.
+Most of my production work is private. The public repositories here are selected examples of how I structure APIs, developer tools, Docker workflows, and web platforms.
 
 ## Contact
 
