@@ -1,10 +1,10 @@
-# Mehedi Hasan
+# Md. Mehedi Hasan
 
 Backend Engineer focused on PHP, Go, Laravel, Docker, GCP, and reliable API systems.
 
 I work at **Daisen Technologies Ltd.** in Dhaka, building backend services, internal tools, deployment workflows, and production systems that need to stay maintainable after the first release.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehedi%20Hasan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-mehedi-hasan-aunik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Mehedi%20Hasan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-mehedi-hasan-aunik)
 [![Email](https://img.shields.io/badge/Email-mehedi.d.elite%40gmail.com-6B7280)](mailto:mehedi.d.elite@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=dev-aunik&label=Profile%20views&color=6B7280&style=flat)](https://github.com/dev-aunik)
 
