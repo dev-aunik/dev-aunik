@@ -1,8 +1,8 @@
 # Md. Mehedi Hasan
 
-Backend Engineer focused on PHP, Go, Laravel, Docker, GCP, and reliable API systems.
+Backend Engineer building reliable APIs, Laravel/Go services, Docker workflows, and cloud-ready systems.
 
-I work at **Daisen Technologies Ltd.** in Dhaka, building backend services, internal tools, deployment workflows, and production systems that need to stay maintainable after the first release.
+I work at **Daisen Technologies Ltd.** in Dhaka, where I build backend services, internal tools, deployment workflows, and production systems that teams can maintain with confidence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Mehedi%20Hasan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-mehedi-hasan-aunik)
 [![Email](https://img.shields.io/badge/Email-mehedi.d.elite%40gmail.com-6B7280)](mailto:mehedi.d.elite@gmail.com)
@@ -15,11 +15,11 @@ I work at **Daisen Technologies Ltd.** in Dhaka, building backend services, inte
 - Docker-based development and deployment workflows
 - CI/CD pipelines with GitHub Actions
 - Real-time features using WebSockets, queues, and event-driven processing
-- Clean, readable code that teams can maintain
+- Clean, readable code with practical documentation and review-friendly changes
 
 ## Current Focus
 
-- Building cleaner Go services with practical architecture boundaries
+- Building Go services with practical architecture boundaries
 - Improving deployment workflows with Docker and GitHub Actions
 - Designing APIs with clear contracts, validation, and predictable errors
 - Keeping public repositories documented, runnable, and easy to review
