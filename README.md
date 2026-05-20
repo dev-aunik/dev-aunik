@@ -17,16 +17,23 @@ I work at **Daisen Technologies Ltd.** in Dhaka, building backend services, inte
 - Real-time features using WebSockets, queues, and event-driven processing
 - Clean, readable code that teams can maintain
 
+## Current Focus
+
+- Building cleaner Go services with practical architecture boundaries
+- Improving deployment workflows with Docker and GitHub Actions
+- Designing APIs with clear contracts, validation, and predictable errors
+- Keeping public repositories documented, runnable, and easy to review
+
 ## Selected Public Work
 
 | Repository | What it shows | Stack |
 | --- | --- | --- |
-| [ci-cd-blueprint](https://github.com/dev-aunik/ci-cd-blueprint) | Simple Docker and GitHub Actions pipeline for a PHP app | PHP, Docker, GitHub Actions |
-| [goku-cli](https://github.com/dev-aunik/goku-cli) | Command-line tool for JSON/YAML conversion | Go, Cobra |
 | [geo-nest](https://github.com/dev-aunik/geo-nest) | Administrative area API with country, city, and postal data | Go, PostgreSQL, Redis, Next.js |
-| [nats](https://github.com/dev-aunik/nats) | Messaging example with order and inventory services | Go, NATS, Docker |
-| [cctv-intelligence](https://github.com/dev-aunik/cctv-intelligence) | Face/object detection system plan with real-time dashboard | Go, WebSocket, Docker |
 | [portfolio](https://github.com/dev-aunik/portfolio) | Personal portfolio and blog project | Go, Angular |
+| [goku-cli](https://github.com/dev-aunik/goku-cli) | Command-line tool for JSON/YAML conversion | Go, Cobra |
+| [nats](https://github.com/dev-aunik/nats) | Messaging example with order and inventory services | Go, NATS, Docker |
+| [ci-cd-blueprint](https://github.com/dev-aunik/ci-cd-blueprint) | Simple Docker and GitHub Actions pipeline for a PHP app | PHP, Docker, GitHub Actions |
+| [cctv-intelligence](https://github.com/dev-aunik/cctv-intelligence) | Camera monitoring prototype with real-time dashboard | Go, WebSocket, Docker |
 
 ## Tech Stack
 
