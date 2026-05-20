@@ -31,6 +31,12 @@ I work at **Daisen Technologies Ltd.** in Dhaka, where I build backend services,
 - Keeping systems simple enough for teams to operate
 - Writing documentation that helps another developer run, test, and ship the project
 
+## Open To
+
+- Backend engineering roles with PHP, Go, Laravel, or API platform work
+- Projects that need Docker-based development and deployment workflows
+- Collaboration on practical developer tools, APIs, and internal platforms
+
 ## Selected Public Work
 
 | Repository | What it shows | Stack |
